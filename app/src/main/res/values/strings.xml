@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="app_title">Hola Mundo Coursera</string>
+    <string name="app_text">Este es ele texto de la aplicacion hola mundo</string>
+</resources>
