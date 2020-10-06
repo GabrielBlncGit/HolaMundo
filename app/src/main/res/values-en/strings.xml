@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Hello World</string>
     <string name="app_title">Hello World Coursera</string>
-    <string name="app_text">It's text to the app hello world</string>
+    <string name="app_text">text to the app hello world</string>
+    <string name="button_enter">Enter</string>
 </resources>
