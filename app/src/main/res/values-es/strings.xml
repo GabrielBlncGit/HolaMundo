@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Hola Mundo</string>
-    <string name="app_title">Hola Mundo Coursera Coursera</string>
-    <string name="app_text">Este esl el texo de la app</string>
-    <string name="button_enter">Entrar</string>
-</resources>
